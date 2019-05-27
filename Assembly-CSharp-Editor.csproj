@@ -66,6 +66,11 @@
      <Compile Include="Assets\DragonBone\Editor\Matrix2D.cs" />
      <Compile Include="Assets\DragonBone\Editor\ShowArmature.cs" />
      <Compile Include="Assets\DragonBone\Editor\SpriteFrameEditor.cs" />
+     <Compile Include="Assets\EasyTouchAddon4PlayMaker\Actions\Editor\EasyTouchGetWorldPositioninspector.cs" />
+     <Compile Include="Assets\EasyTouchAddon4PlayMaker\Actions\Editor\EasyTouchQuickPinchInspector.cs" />
+     <Compile Include="Assets\EasyTouchAddon4PlayMaker\Actions\Editor\EasyTouchQuickTwistInspector.cs" />
+     <Compile Include="Assets\EasyTouchAddon4PlayMaker\Editor\EasyTouchPlayMakerMenu.cs" />
+     <Compile Include="Assets\EasyTouchAddon4PlayMaker\Editor\EasyTouchSceneProxyInspector.cs" />
      <Compile Include="Assets\EasyTouchBundle\EasyTouch\Plugins\Editor\EasytouchHierachyCallBack.cs" />
      <Compile Include="Assets\EasyTouchBundle\EasyTouch\Plugins\Editor\EasyTouchInspector.cs" />
      <Compile Include="Assets\EasyTouchBundle\EasyTouch\Plugins\Editor\EasyTouchMenu.cs" />
