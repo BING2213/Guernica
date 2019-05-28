@@ -20,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/4Bury.unity
     guid: c415f39a0aa2e45ef906a9512af41251
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/6Exhibition.unity
     guid: 4ad267b862e324967b20b84176bbb0f5
