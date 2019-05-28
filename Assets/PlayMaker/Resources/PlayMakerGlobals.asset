@@ -10,14 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 42938266, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
-  m_Name: 
+  m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
     floatVariables: []
     intVariables: []
     boolVariables: []
     stringVariables: []
-    vector2Variables: []
+    vector2Variables:
+    - useVariable: 1
+      name: Position
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0}
     vector3Variables:
     - useVariable: 1
       name: position
@@ -36,5 +42,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 0000000000000000
   events: []
