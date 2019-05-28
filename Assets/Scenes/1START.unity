@@ -440,7 +440,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 6Exhibition
+          value: 4Bury
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -1779,7 +1779,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4Bury
+          value: 6Exhibition
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
