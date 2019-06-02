@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: StoreXp
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: Xp
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     intVariables: []
     boolVariables: []
     stringVariables: []
-    vector2Variables:
-    - useVariable: 1
-      name: Position
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: {x: 0, y: 0}
-    vector3Variables:
-    - useVariable: 1
-      name: position
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: {x: 0, y: 0, z: 0}
+    vector2Variables: []
+    vector3Variables: []
     colorVariables: []
     rectVariables: []
     quaternionVariables: []
@@ -43,4 +43,5 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 0000000000000000
-  events: []
+  events:
+  - Move

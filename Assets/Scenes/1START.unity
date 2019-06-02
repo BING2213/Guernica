@@ -440,7 +440,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 4Bury
+          value: 2Incinerator
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []

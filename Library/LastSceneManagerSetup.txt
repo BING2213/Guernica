@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/3Sespit.unity
+- path: Assets/Scenes/2Incinerator.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
