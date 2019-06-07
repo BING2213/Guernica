@@ -1217,6 +1217,7 @@
     <Compile Include="Assets\PlayMaker\Actions\Web\WWWObject.cs" />
     <Compile Include="Assets\PlayMaker\FsmProcessor.cs" />
     <Compile Include="Assets\PlayMaker\UpdateHelper.cs" />
+    <Compile Include="Assets\Resources\Scripts\OriginalSpeed.cs" />
     <None Include="Assets\EasyTouchAddon4PlayMaker\RealseNotes.txt" />
     <None Include="Assets\PlayMaker\Templates\Readme.txt" />
     <None Include="Assets\PlayMaker\Readme.txt" />
